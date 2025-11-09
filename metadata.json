@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Social Media Sentiment Analyzer",
+  "description": "An application that uses the Gemini API to analyze the sentiment of social media posts about a specific topic, providing a detailed breakdown of public opinion.",
+  "requestFramePermissions": []
+}
